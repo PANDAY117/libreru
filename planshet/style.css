@@ -1,0 +1,132 @@
+.whide-wrapper {
+    margin: 0 auto;
+    width: 1400px;
+}
+
+body {
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background: rgb(12, 12, 14);
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    gap: 40px;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Forum;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 3px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    word-spacing: 6px;
+}
+
+.nov-links-list {
+    display: fleks;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+nav {
+    margin: auto;
+}
+
+.nov-links-list a {
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.hero {
+    background-image: url(./pictures/Welcome.png);
+    height: 600px;
+    display: flex;
+}
+
+.hero div{
+    width: 520px;
+    height: 150px;
+    background: flex;
+    align-items: center;
+    margin-top: 220px;
+    justify-content: center;
+}
+
+.hero h2 {
+    color: rgb(255, 255, 255);
+    font-family: Forum;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 3px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.about {
+    margin: 20px;
+}
+
+.about h2{
+    color: rgb(12, 12, 14);
+    font-family: Forum;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.about p{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.about-gallary{
+    display: flex;
+    gap: 25px;
+}
+
+.favorite {
+    margin: 20px;
+}
+
+.favorite h2{
+    color: rgb(12, 12, 14);
+    font-family: Forum;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.favorite{
+}
